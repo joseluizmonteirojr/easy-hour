@@ -1,0 +1,6 @@
+{
+  "host": "https://redmine.wealthlabs.com.br",
+  "api-key": ***REDMINE_HASH***,
+  "user": ***USER_ID_REDMINE***,
+  "time": 7.25
+}
